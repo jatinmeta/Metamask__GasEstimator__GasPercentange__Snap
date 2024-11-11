@@ -83,8 +83,8 @@ This project is licensed under the MIT License - see the [LICENSE file](./LICENS
 
 ## Acknowledgments
 
-- Uniswap for powering the flashcard generation
-- Clerk for login and authentication
+- Thanks to the MetaMask team for providing comprehensive Snap SDK documentation.
+- Acknowledging all contributors and open-source libraries used in this project.
 
 ## Contact
 
