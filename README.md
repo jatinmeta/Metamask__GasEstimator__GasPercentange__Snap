@@ -8,6 +8,11 @@ MetaMask Snaps is a feature of the MetaMask wallet that enables developers to bu
 - [How to run MetaMask Snap](#how-to-run-metamask-snap)
   - [Create a Snap to calculate gas fee percentages](#create-a-snap-to-calculate-gas-fee-percentages)
   - [Create a Snap to estimate gas fees](#create-a-snap-to-estimate-gas-fees) 
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 
 ## Features
 
@@ -81,10 +86,11 @@ We love contributions! Here's how you can help make the AI-powered FinanceGuru e
 This project is licensed under the MIT License - see the [LICENSE file](./LICENSE) for details.
 
 
-## Acknowledgments
+## Acknowledgements
 
 - Thanks to the MetaMask team for providing comprehensive Snap SDK documentation.
 - Acknowledging all contributors and open-source libraries used in this project.
+
 
 ## Contact
 
